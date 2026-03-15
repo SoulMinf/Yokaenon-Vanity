@@ -1,0 +1,18 @@
+Items: {
+	Yokaenon: {
+		// Tooltip: ""
+		DisplayName: Костюм Yokaenon
+	}
+}
+
+Configs: {
+	Config: {
+		DisplayName: Настройки Yokaenon's Vanity
+		// DisableDyes.Tooltip: ""
+	}
+}
+
+DisableDyes: {
+	Label: Выключить применение красителей
+	Tooltip: Из-за технических ограничений, красители не применяются к хвосту. Возможно, решение появится в будущем
+}

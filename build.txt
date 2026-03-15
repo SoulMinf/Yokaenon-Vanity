@@ -1,0 +1,5 @@
+displayName = Yokaenon Vanity
+author = SoulMinf & OwenDraw
+version = 1.0
+
+buildIgnore = .vs\*, *.csproj, obj\*, bin\*

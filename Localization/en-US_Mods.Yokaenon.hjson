@@ -1,0 +1,18 @@
+Items: {
+	Yokaenon: {
+		Tooltip: ""
+		DisplayName: Yokaenon Vanity
+	}
+}
+
+Configs: {
+	Config: {
+		DisplayName: Yokaenon Vanity Config
+		DisableDyes.Tooltip: ""
+	}
+}
+
+DisableDyes: {
+	Label: Disable Dyes
+	Tooltip: Due to technical limitations, dyes are not applied to the tail. A solution may become available in the future
+}
